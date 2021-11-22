@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alan-cavalcante, I am a Graphic Designer working on a change of carreer.
+- 👋 Hi, I’m @alan-cavalcante, I am a graduated Graphic Designer but as I decided to change my carreer, now I am studying Computer Science.
 - 👀 I’m interested in JavaScript, which is my first programming language.
 - 🌱 I’m currently learning React/NextJS.
 - 💞️ I’m looking to learn and improve.
