@@ -1,6 +1,6 @@
 - 👋 Olá, meu nome é Alan, estudante de Ciência da Computação embora eu já possua graduação em Design Gráfico.
 - 👀 Tenho interesse em JavaScript, que é a minha primeira linguagem de programação. A partir desse aprendizado busquei conhecer algumas bibliotecas importantes e frameworks, como ReactJS e NextJS.
-- 🌱 Atualmente estou estudando PHP com Laravel.
+- 🌱 Atualmente estou estudando React Native.
 - 💞️ Estou sempre em busca de melhorar minhas habilidades.
 
 <!---
