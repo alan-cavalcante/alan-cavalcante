@@ -1,7 +1,6 @@
-- 👋 Olá, meu nome é Alan, estudante de Ciência da Computação embora eu já possua graduação em Design Gráfico.
-- 👀 Tenho interesse em JavaScript, que é a minha primeira linguagem de programação. A partir desse aprendizado busquei conhecer algumas bibliotecas importantes e frameworks, como ReactJS e NextJS.
-- 🌱 Atualmente estou estudando React Native.
-- 💞️ Estou sempre em busca de melhorar minhas habilidades.
+- 👋 Olá, sou estudante de Ciência da Computação (4º Semestre) embora eu já possua graduação em Design Gráfico(2013).
+- 👀 Atualmente estou trabalhando Remoto com desenvolvimento Mobile(Android e iOS) para uma empresa fora do meu estado, utilizando React Native. Embora eu esteja trabalhando apenas com Frontend, tenho interesse também em Backend e outras áreas afins de T.I.
+- 💞️ Estou sempre em busca de melhorar minhas habilidades, me considero uma pessoas bastante útil e tenho facilidade em aprender.
 
 <!---
 alan-cavalcante/alan-cavalcante is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
