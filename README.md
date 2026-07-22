@@ -40,7 +40,7 @@ Unindo a solidez técnica da **Ciência da Computação** com a visão de produt
 
 | Projeto | Descrição | Tecnologias | Link |
 | :--- | :--- | :--- | :---: |
-| **SySAC** | `App mobile ERP completo para gestão financeira com sincronização e Autenticação pela Cloud do Google` | `React Native` `Expo` `TypeScript` | [Repositório]([https://github.com/seu-usuario/link](https://github.com/alan-cavalcante/SySAC---Clubes)) |
+| **SySAC** | `App mobile ERP completo para gestão financeira com sincronização e Autenticação pela Cloud do Google` | `React Native` `Expo` `TypeScript` | [Repositório Trancado]([https://github.com/seu-usuario/link](https://github.com/alan-cavalcante/SySAC---Clubes)) |
 
 ---
 
