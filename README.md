@@ -46,7 +46,7 @@ Unindo a solidez técnica da **Ciência da Computação** com a visão de produt
 
 ## 📫 Vamos nos conectar?
 
-- 💼 **LinkedIn:** [linkedin.com/in/[seu-perfil]]([https://linkedin.com/in/[SEU-PERFIL]](https://www.linkedin.com/in/alan-cavalcante-01ac/))
+- 💼 **LinkedIn:** [linkedin.com/in/alan-cavalcante-01ac/]([https://linkedin.com/in/[SEU-PERFIL]](https://www.linkedin.com/in/alan-cavalcante-01ac/))
 - ✉️ **E-mail:** [aocaval@gmail.com](mailto:aocaval@gmail.com)
 
 <!---
